@@ -12,4 +12,4 @@ Unity 엔진을 기반으로 제작된 2D 캐주얼게임으로 포트폴리오 
 
 ## 영상 및 기술서
 - 동영상: https://www.youtube.com/watch?v=rLs6uu-nfns
-- 기술서: https://drive.google.com/file/d/1YkrZpp6IsMeRkgUDhFVOF7isZLwTMolE/view?usp=sharing
+- 기술서: https://drive.google.com/file/d/1JoPDS4ZuHPQ_TUy4Jz_bEVunFjqeyzIy/view?usp=sharing
